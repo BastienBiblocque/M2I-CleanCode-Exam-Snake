@@ -8,7 +8,6 @@ namespace M2I_CleanCode_Exam_Snake
 {
     internal class GameTest
     {
-
         private Game _game;
         private Dice _dice;
 
